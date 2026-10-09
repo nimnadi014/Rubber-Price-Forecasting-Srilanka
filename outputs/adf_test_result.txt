@@ -1,0 +1,7 @@
+
+	Augmented Dickey-Fuller Test
+
+data:  train_ts
+Dickey-Fuller = -2.6132, Lag order = 6, p-value = 0.3178
+alternative hypothesis: stationary
+

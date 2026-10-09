@@ -1,0 +1,14 @@
+Series: train_bc 
+ARIMA(0,1,0)(1,0,0)[52] 
+
+Coefficients:
+        sar1
+      0.0158
+s.e.  0.0693
+
+sigma^2 = 0.009166:  log likelihood = 283.28
+AIC=-562.57   AICc=-562.53   BIC=-555.13
+
+Training set error measures:
+                      ME       RMSE        MAE        MPE      MAPE      MASE       ACF1
+Training set 0.004429224 0.09542777 0.06497966 0.04925844 0.8180028 0.1432567 -0.1475957

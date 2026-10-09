@@ -1,0 +1,6 @@
+
+	Box-Ljung test
+
+data:  res_log
+X-squared = 36.999, df = 19, p-value = 0.007936
+
